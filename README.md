@@ -1,2 +1,8 @@
 # Sign_Language_Digit_Recognition
 A simple CNN-classifier designed on keras to recognize Sign Language Digits. 
+
+Original Dataset courtesy : https://github.com/ardamavi/Sign-Language-Digits-Dataset
+
+  The following repository contains a jupyter notebook containing a detailed step-by-step instruction on how to build a image classifier in keras using a Convolutional Neural Net.
+
+  A imgdatagen.py file has been provide if you want to know how the images were convertd into the form of training data used on the jupyter notebook.
